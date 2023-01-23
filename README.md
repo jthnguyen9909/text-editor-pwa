@@ -19,6 +19,12 @@ This is a text editor web application that features data persistence. In additio
 
 The application is quite straightforward, in that once a user visits the application's url, they will be greeted with the main webpage including the text editor with a default example in the text field. The user can then input any text they'd like and the data will persist whether they leave the page, disconnect, refresh, or anything of the sort through the use of IndexedDB. The user is also able to use the text editor offline as well, as the all the applications features will also work offline. In the top left of the page or in the browser's address bar, there will be buttons that will then prompt the user if they'd like to install the application directly instead of running it in the browser, and the application is able to run independently as its own program with all the features intact.
 
+![Alt text](/client/src/screenshots/sc1.png?raw=true "Application Screenshot 1")
+![Alt text](/client/src/screenshots/sc2.png?raw=true "Application Screenshot 2")
+![Alt text](/client/src/screenshots/sc3.png?raw=true "Application Screenshot 3")
+![Alt text](/client/src/screenshots/sc4.png?raw=true "Application Screenshot 4")
+![Alt text](/client/src/screenshots/sc5.png?raw=true "Application Screenshot 4")
+
 ## License
 
 This project is licensed under the MIT license.
