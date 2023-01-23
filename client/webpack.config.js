@@ -34,8 +34,8 @@ module.exports = () => {
         name: "Just Another Text Editor",
         short_name: "J.A.T.E",
         description: "Text Editor",
-        start_url: "./",
-        publicPath: "./",
+        start_url: "/",
+        publicPath: "/",
         icons: [
           {
             src: path.resolve("src/images/logo.png"),
